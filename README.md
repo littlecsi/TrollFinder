@@ -1,2 +1,2 @@
 # TrollFinder
-Allows software to detect troll summoner's name.
+This software detects troll users in current match-up.
